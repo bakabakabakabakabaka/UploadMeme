@@ -1,6 +1,6 @@
 # UploadMeme
 This is the dumbest theme. Changes the Upload Modal into that one GIF.\
-*This is from Powercord. This is NOT my code, it is simply imported to BD :D. The original creator is in the CSS file.*
+*This is from Powercord. This is NOT my code, it is simply imported it to BD :D. The original creator is in the CSS file.*
 
 Preview:    
 ![image](https://user-images.githubusercontent.com/65756037/119545170-5ddca100-bd47-11eb-9c88-8e5d188f57fc.png)
